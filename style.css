@@ -42,3 +42,28 @@
 .categories img{
     width: 100px;
 }
+.sprice{
+    padding-left: 20px;
+}
+
+.spbutton{
+    padding-left: 20px;
+}
+
+.card{
+    border: none; 
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: #fff;
+    border-top: none;
+
+}
+
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: grey;
+}
